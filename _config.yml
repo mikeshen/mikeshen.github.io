@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Mike Shen"
   avatar           : "profile.png"
-  bio              : "I am currently Software Engineer at Google focusing on our Commerce product. Formerly, I also worked at Citadel Securities on the Equities trading system."
+  bio              : "I am currently a Software Engineer at Google focusing on our Commerce product. Formerly, I also worked at Citadel Securities on the Equities trading system."
   location         : "New York, New York"
-  employer         : "Google"
+  employer         :
   pubmed           :
   googlescholar    :
   email            :
