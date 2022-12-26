@@ -15,16 +15,17 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-Current: Software Engineer
+  * Google
+* 2016-2019: Software Engineer
+  * Citadel Securities
+* May 2015-Aug 2015: Software Engineering Intern
+  * Arista Networks
+* Oct 2014-Jan 2015: Software Engineering Intern
+  * Automatic Data Processing
+* Jan 2014-Sep 2015: Software Engineering Intern
+  * DTE Energy
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
