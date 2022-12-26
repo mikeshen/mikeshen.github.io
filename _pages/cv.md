@@ -18,7 +18,7 @@ Work experience
 ======
 * 2016-Current: Software Engineer
   * Google
-* 2016-2019: Software Engineer
+* 2016-2019: Financial Technology Associate Program and Software Engineer
   * Citadel Securities
 	* Worked on the systematic trading technologies team. We help maintain and improve the core quoter/trading infrastructure software used across several teams across the firm.
 * May 2015-Aug 2015: Software Engineering Intern
