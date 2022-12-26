@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
----
 Mike Shen is a software engineer with a breadth of experience in tech and financial markets.
 ---
 In my freetime, I enjoy:
