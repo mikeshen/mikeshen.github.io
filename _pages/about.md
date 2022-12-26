@@ -7,23 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I will fill in this section later.
-
+Mike Shen is a software engineer with a breadth of experience in tech and financial markets.
 ---
-__Advertisement :)__
-
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
-
----
-
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+In my freetime, I enjoy:
+- chats over coffee. Let me know if you're ever in NYC and want to pick my brain.
+- studying financial markets and dabbling in global macro trading.
+- basketball.
+- running.
+- biking or scootering around Manhattan.
+- hanging with, petting and serving my two cats.

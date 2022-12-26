@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, University of Michigan - Ann Arbor, 2013-2016
+* 2013-2016: B.S. in Computer Science
+	*	University of Michigan - Ann Arbor
 
 Work experience
 ======
