@@ -10,21 +10,21 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* 2013-2016: B.S. in Computer Science
-	*	University of Michigan - Ann Arbor
+* 2013-2016: University of Michigan - Ann Arbor
+	*	B.S. in Computer Science
 
 ## Work experience
-* 2016-Current: Software Engineer
-  * Google
-* 2016-2019: Financial Technology Associate Program and Software Engineer
-  * Citadel Securities
+* 2016-Current: Google
+  * Software Engineer
+* 2016-2019: Citadel Securities
+  * Financial Technology Associate Program and Software Engineer
   * Worked on the systematic trading technologies team. We help maintain and improve the core quoter/trading infrastructure software used across several teams across the firm.
-* May 2015-Aug 2015: Software Engineering Intern
-  * Arista Networks
-* Oct 2014-Jan 2015: Software Engineering Intern
-  * Automatic Data Processing
-* Jan 2014-Sep 2015: Software Engineering Intern
-  * DTE Energy
+* May 2015-Aug 2015: Arista Networks
+  * Software Engineering Intern
+* Oct 2014-Jan 2015: Automatic Data Processing
+  * Software Engineering Intern
+* Jan 2014-Sep 2015: DTE Energy
+  * Software Engineering Intern
 
 ## Skills
 * Skill 1
