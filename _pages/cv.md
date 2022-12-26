@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+### Education
 ======
 * 2013-2016: B.S. in Computer Science
 	*	University of Michigan - Ann Arbor
 
-## Work experience
+### Work experience
 ======
 * 2016-Current: Software Engineer
   * Google
@@ -28,7 +28,7 @@ redirect_from:
 * Jan 2014-Sep 2015: Software Engineering Intern
   * DTE Energy
 
-## Skills
+### Skills
 ======
 * Skill 1
 * Skill 2
@@ -37,6 +37,6 @@ redirect_from:
   * Sub-skill 2.3
 * Skill 3
 
-## Service and leadership
+### Service and leadership
 ======
 * Currently signed in to 43 different slack teams
