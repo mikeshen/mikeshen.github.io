@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Mike Shen is a software engineer with a breadth of experience in tech and financial markets.
+Mike Shen is a software engineer with a breadth of experience in technology and financial markets.
 ---
 In my freetime, I enjoy:
 - chats over coffee. Let me know if you're ever in NYC and want to pick my brain.
