@@ -14,7 +14,7 @@ redirect_from:
 	*	B.S. in Computer Science
 
 ## Work experience
-* 2016-Current: Google
+* 2019-Current: Google
   * Software Engineer
 * 2016-2019: Citadel Securities
   * Financial Technology Associate Program and Software Engineer
