@@ -17,9 +17,15 @@ I also enjoy diving into the evolution of software development tool chains. I be
 In my freetime, I enjoy:
 - chats over coffee. Let me know if you're ever in NYC and want to pick my brain.
 - studying financial markets and dabbling in global macro trading.
-- travel - 19 countries and counting.
+- travel - 24 countries and counting.
+- reading.
+- smoothies.
+- design.
 - piano.
+- cooking.
 - basketball.
+- bouldering.
 - running.
+- yoga.
 - biking or scootering around Manhattan.
 - hanging with, petting and serving my two cats.
