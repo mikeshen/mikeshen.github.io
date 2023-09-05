@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Mike Shen is a software engineer with a breadth of experience in technology and financial markets.
+A software engineer with a breadth of experience in technology and financial markets.
 ---
 I am passionate about developing a deep understanding of the financial markets using data analysis, financial modeling, and robust/real-time software systems. I focus on iterating using rapid ingestion and actionization of new data.
 
