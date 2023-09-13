@@ -6,4 +6,4 @@ permalink: /posts/2023/09/micromorts
 tags:
   - statistics
 ---
-Have you ever done an activity that is potentially risky and thought: “Hmm, I wonder what the chances are that I die from doing this?” Now you can know the answer!
+Were you ever about to do an activity that was potentially risky and thought: “Hmm, I wonder what the chances are that I die from this?” Now you can know the answer!
