@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Mike Shen"
 description              : &description "A real, human being."
 url                      : https://mikeshen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "blog" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mikeshen/mikeshen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
