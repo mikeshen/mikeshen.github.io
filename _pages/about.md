@@ -15,17 +15,19 @@ I am passionate about developing a deep understanding of the financial markets u
 I also enjoy diving into the evolution of software development tool chains. I believe the rise of low/no code development and AI-assisted development have the power to radically disrupt the existing industry and will result in order-of-magnitude increases in both efficiency and safety of software.
 
 In my freetime, I enjoy:
+
 - chats over coffee. Let me know if you're ever in NYC and want to pick my brain.
 - studying financial markets and dabbling in global macro trading.
-- travel - 25 countries and counting.
+- travel - 28 countries and counting - see the [map](../images/MapChart_Map.png).
 - reading.
 - smoothies.
-- design.
+- design and architecture.
 - piano.
 - cooking.
 - basketball.
 - bouldering.
 - running.
 - yoga.
+- board games. Favorites include Catan, Codenames, Terraforming Mars, and Time's Up.
 - biking or scootering around Manhattan.
 - hanging with, petting and serving my two cats.
