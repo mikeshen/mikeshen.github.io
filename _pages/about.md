@@ -28,6 +28,7 @@ In my freetime, I enjoy:
 - bouldering.
 - running.
 - yoga.
+- Michigan football.
 - board games. Favorites include Catan, Codenames, Terraforming Mars, and Time's Up.
 - biking or scootering around Manhattan.
 - hanging with, petting and serving my two cats.
