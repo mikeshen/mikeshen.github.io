@@ -18,6 +18,7 @@ In my freetime, I enjoy:
 
 - chats over coffee. Let me know if you're ever in NYC and want to pick my brain.
 - studying financial markets and dabbling in global macro trading.
+- generative ai
 - travel - 28 countries and counting - see the [map](https://mikeshen.github.io/images/MapChart_Map.png).
 - reading.
 - smoothies.
