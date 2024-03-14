@@ -1,5 +1,3 @@
-2024-03-13-write-publish.md
-
 ---
 title: 'Write Fast, Publish often,'
 date: 2024-03-13
