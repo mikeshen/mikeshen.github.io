@@ -12,24 +12,24 @@ redirect_from:
 
 I am passionate about developing a deep understanding of the financial markets using data analysis, financial modeling, and robust/real-time software systems. I focus on iterating using rapid ingestion and actionization of new data.
 
-I also enjoy diving into the evolution of software development tool chains. I believe the rise of low/no code development and AI-assisted development have the power to radically disrupt the existing industry and will result in order-of-magnitude increases in both efficiency and safety of software.
+I also enjoy diving into the evolution of software development toolchains. The rise of low/no code development and AI-assisted development has the power to radically disrupt the existing industry and will result in order-of-magnitude increases in both efficiency and safety of software.
 
-In my freetime, I enjoy:
+In my free time, I enjoy:
 
-- chats over coffee. Let me know if you're ever in NYC and want to pick my brain.
-- studying financial markets and dabbling in global macro trading.
-- generative ai
-- travel - 28 countries and counting - see the [map](https://mikeshen.github.io/images/MapChart_Map.png).
-- reading.
-- smoothies.
-- design and architecture.
-- piano.
-- cooking.
-- basketball.
-- bouldering.
-- running.
-- yoga.
-- Michigan football.
-- board games. Favorites include Catan, Codenames, Terraforming Mars, and Time's Up.
-- biking or scootering around Manhattan.
-- hanging with, petting and serving my two cats.
+- Having chats over coffee. Let me know if you're ever in NYC and want to pick my brain.
+- Studying financial markets and dabbling in global macro trading.
+- Exploring generative AI.
+- Traveling - I've been to 28 countries and counting. Check out my [map](https://mikeshen.github.io/images/MapChart_Map.png).
+- Reading.
+- Making smoothies.
+- Design and architecture.
+- Playing the piano.
+- Cooking.
+- Playing basketball.
+- Bouldering.
+- Running.
+- Practicing yoga.
+- Watching Michigan football.
+- Playing board games. Some of my favorites include Catan, Codenames, Terraforming Mars, and Monikers.
+- Biking or scootering around Manhattan.
+- Hanging out with, petting, and serving my two cats.
