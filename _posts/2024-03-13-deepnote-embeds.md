@@ -7,4 +7,5 @@ tags:
   - writing
   - data science
 ---
+
 Deepnote Embeds provide a convenient and simple way to share graphs, visualizations, and data from your Python environments online.
