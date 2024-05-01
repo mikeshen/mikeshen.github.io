@@ -1,6 +1,6 @@
 ---
 title: "List of Chat Apps I Use"
-date: 2024-04-27
+date: 2024-04-28
 link: https://mikeshen.notion.site/List-of-Chat-Apps-I-Use-52cc5aadcb9d4501b9746faf5301442d?pvs=4
 permalink: /posts/2024/04/measuring-knowledge-accessibility/
 tags:
