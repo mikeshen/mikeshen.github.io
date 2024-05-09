@@ -18,6 +18,7 @@ In my free time, I enjoy:
 
 - Having chats over coffee. Let me know if you're ever in NYC and want to pick my brain.
 - Studying financial markets and dabbling in global macro trading.
+- Dabling in prediction markets. Currently on Polymarket, previously PredictIt.
 - Exploring generative AI.
 - Traveling - I've been to 28 countries and counting. Check out my [map](https://mikeshen.github.io/images/MapChart_Map.png).
 - Reading.
