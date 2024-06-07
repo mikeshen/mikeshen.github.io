@@ -22,14 +22,15 @@ In my free time, I enjoy:
 - Exploring generative AI.
 - Traveling - I've been to 28 countries and counting. Check out my [map](https://mikeshen.github.io/images/MapChart_Map.png).
 - Reading.
-- Making smoothies.
-- Design and architecture.
-- Playing the piano.
 - Cooking.
-- Playing basketball.
 - Bouldering.
 - Running.
+- Swimming.
 - Practicing yoga.
+- Playing basketball.
+- Playing the piano.
+- Making smoothies.
+- Design and architecture.
 - Watching Michigan football.
 - Playing board games. Some of my favorites include Catan, Codenames, Terraforming Mars, and Monikers.
 - Biking or scootering around Manhattan.
