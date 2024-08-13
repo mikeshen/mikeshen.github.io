@@ -8,4 +8,4 @@ tags:
   - tech
 ---
 
-As a reminder to myself and as a personal case study in how this experience is now broken for users.
+Accessible knowledge is power. Learn how to measure it.
