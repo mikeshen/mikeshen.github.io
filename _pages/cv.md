@@ -29,4 +29,4 @@ redirect_from:
   * Volunteer basketball coach - grades 6-8, focused on mentoring primarily underserved Asian youth in Manhattan. In my coaching, I pride myself in leading by doing. I emphasize positive learning and teaching life-long values and strong foundations through the game.
   Fifth Avenue Presbyterian Church (Started volunteering in Dec 2024, ongoing)  
 * Volunteer Sunday school teacher
-  * ages 3-5, fostering a positive and supportive environment for children to learn and grow.
+  * ages 3-5, fostering a positive and supportive environment for children to learn and grow during the key critical years!
