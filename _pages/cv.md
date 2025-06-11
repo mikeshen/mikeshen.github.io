@@ -33,5 +33,5 @@ redirect_from:
   Fifth Avenue Presbyterian Church (Started volunteering in Dec 2024, ongoing)  
 * Volunteer Sunday School Teacher
   * (December 2024 - Present)
-  * Work with kids Ages 3-5.
+  * Work with kids ages 3-5.
   * Fostering a positive and supportive environment for children to learn and grow during the key critical (first 5) years!
