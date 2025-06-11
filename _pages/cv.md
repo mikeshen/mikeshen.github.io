@@ -25,8 +25,13 @@ redirect_from:
 * Arista Networks - Software Engineering Intern (2015)
 
 ## Service and Leadership
-* Basketball Coach: Apex for Youth (Jul 2024 - Present)  
-  * Volunteer basketball coach - grades 6-8, focused on mentoring primarily underserved Asian youth in Manhattan. In my coaching, I pride myself in leading by doing. I emphasize positive learning and teaching life-long values and strong foundations through the game.
+* Volunteer Basketball Coach: Apex for Youth
+  * (July 2024 - Present)  
+  * Work with kids from Grades 6-8.
+  * Focused on mentoring primarily underserved Asian youth in Manhattan.
+  * In my coaching, I pride myself in leading by doing. I emphasize positive learning and teaching life-long values and strong foundations through the game.
   Fifth Avenue Presbyterian Church (Started volunteering in Dec 2024, ongoing)  
-* Volunteer Sunday school teacher
-  * ages 3-5, fostering a positive and supportive environment for children to learn and grow during the key critical years!
+* Volunteer Sunday School Teacher
+  * (December 2024 - Present)
+  * Work with kids Ages 3-5.
+  * Fostering a positive and supportive environment for children to learn and grow during the key critical (first 5) years!
