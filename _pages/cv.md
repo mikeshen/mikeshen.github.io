@@ -28,11 +28,10 @@ redirect_from:
 ## Service and Leadership
 * Apex for Youth - Volunteer Basketball Coach
   * (July 2024 - Present)  
-  * Work with kids from grades 6-8.
-  * Focused on mentoring primarily underserved Asian youth in Manhattan.
+  * Work with kids grades 6-8.
+  * Mentor primarily underserved Asian youth in Manhattan  
   * In my coaching, I pride myself in leading by doing. I emphasize positive learning and teaching life-long values and strong foundations through the game.
 * Fifth Avenue Presbyterian Church - Volunteer Sunday School Teacher
-  (Started volunteering in Dec 2024, ongoing)  
   * (December 2024 - Present)
   * Work with kids ages 3-5.
   * Fostering a positive and supportive environment for children to learn and grow during the key critical (first 5) years!
