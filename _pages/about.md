@@ -23,7 +23,7 @@ In my free time, I enjoy:
 - Traveling - I've been to 28 countries and counting. Check out my [map](https://mikeshen.github.io/images/MapChart_Map.png).
 - Reading.
 - Cooking.
-- Bouldering.
+- Walking.
 - Running.
 - Swimming.
 - Practicing yoga.
@@ -33,5 +33,4 @@ In my free time, I enjoy:
 - Design and architecture.
 - Watching Michigan football.
 - Playing board games. Some of my favorites include Catan, Codenames, Terraforming Mars, and Monikers.
-- Biking or scootering around Manhattan.
 - Hanging out with, petting, and serving my two cats.
