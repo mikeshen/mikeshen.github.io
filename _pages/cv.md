@@ -10,14 +10,16 @@ redirect_from:
 {% include base_path %}
 
 ## Education
+
 * University of Michigan - Ann Arbor
-  *	B.S. in Computer Science
+  * B.S. in Computer Science
   * 2024 College Football National Champions
     * Was with Team 145 in spirit.
     * Attended 2024 Rose Bowl against Alabama. Still my #1 sports memory.
   * Graduated in 3 years, but I would've traded +1 year for an additional OSU victory during my time there.
 
 ## Professional Work Experience
+
 * Google - Software Engineer (2019-2023)
   * 2 years Local Shopping Search Features
   * 2 years Geo/Maps Business API
@@ -27,6 +29,7 @@ redirect_from:
   * This was one of countless moments in my life where a light bulb went off in my head.
 
 ## Service and Leadership
+
 * Apex for Youth - Volunteer Basketball Coach (July 2024 - Present)  
   * Work with kids grades 6-8.
   * Mentor primarily underserved Asian youth in Manhattan.
